@@ -1,0 +1,30 @@
+.jewelry--title {
+  text-align: center;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+  margin: 1rem 1rem 0 0;
+  max-width: 450px;
+}
+
+.card > img {
+  max-width: 125px;
+  max-height: 125px;
+  min-height: 125px;
+  border-radius: 10px;
+  align-items: stretch;
+}
+.card--text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+.card--text h1 {
+  margin-top: 0;
+}
+.image--holder {
+  display: flex;
+  flex-direction: column;
+}
