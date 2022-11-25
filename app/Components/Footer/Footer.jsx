@@ -6,7 +6,7 @@ class Footer extends React.Component {
   render() {
     return (
     <footer className="footer">
-      <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/e1g4t0" target="_blank" rel="noopener noreferrer">
         <span className="logo">
           <time>2022</time> © Семенов Павел.
         </span>

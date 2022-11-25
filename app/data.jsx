@@ -3,84 +3,42 @@ export default [
     Id: 1,
     title: "Planetarium",
     description:
-      "Ебучие планеты. ПутЭн, ебани землю ядерной ракетой. Я не хочу учить фронт!!!!!!! :(",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
+      "Awsome планеты. ПутЭн, strike землю ядерной ракетой. Я не хочу учить фронт!!!!!!! :(",
+    imgUrl: "https://i2-prod.mirror.co.uk/news/technology-science/science/article5595179.ece/ALTERNATES/s1227b/0_MERCURY1.jpg",
   },
   {
     Id: 2,
-    title: "Project2",
+    title: "Creative studio",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
+      "This is the creative studio project. It is a website about the advertising company",
+    imgUrl: "https://images.all-free-download.com/images/graphiclarge/creative_studio_47156.jpg",
   },
   {
     Id: 3,
-    title: "Project3",
+    title: "About me",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
+      "This project is my autobiography. It contains main information about myself",
+    imgUrl: "https://m.media-amazon.com/images/I/51YFY2uXjpL.jpg",
   },
   {
     Id: 4,
-    title: "Project",
+    title: "Bakery",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
+      "A bakery is an establishment that produces and sells flour-based food baked in an oven such as bread, cookies, cakes, donuts, pastries, and pies. Some retail bakeries are also categorized as cafés, serving coffee and tea to customers who wish to consume the baked goods on the premises.",
+    imgUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Strawberry_cupcakes_%286092771387%29.jpg/330px-Strawberry_cupcakes_%286092771387%29.jpg",
   },
   {
     Id: 5,
-    title: "Project",
+    title: "Meta Project",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
+      "My next project contains a group laboratory work. But this is the same laboratory work. This means that I am breaking the fourth wall. This is the meta project",
+    imgUrl: "https://www.informatik.uni-leipzig.de/~hlawit/SimBeam/figure3.png",
   },
   {
     Id: 6,
-    title: "Project",
+    title: "Small funny Man",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
-  },
-  {
-    Id: 7,
-    title: "Project",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
-  },
-  {
-    Id: 8,
-    title: "Project",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
-  },
-  {
-    Id: 9,
-    title: "Project",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
-  },
-  {
-    Id: 10,
-    title: "Project",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
-  },
-  {
-    Id: 11,
-    title: "Project",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
-  },
-  {
-    Id: 12,
-    title: "Project",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    imgUrl: "https://source.unsplash.com/JmuyB_LibRo",
+      "Ha-ha-ha. This is the small funny man in his funny photo ramka.",
+    imgUrl: "http://creativenerds.co.uk/wp-content/uploads/2010/01/metalab.jpg",
   },
 ];
